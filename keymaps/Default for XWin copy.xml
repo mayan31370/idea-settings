@@ -1,6 +1,9 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="ActivateDatabaseToolWindow">
-    <keyboard-shortcut first-keystroke="alt 8" />
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFindBugs-IDEAToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
