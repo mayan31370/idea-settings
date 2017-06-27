@@ -90,6 +90,10 @@
           <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/defrayal-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.counect.wiki:9001/paas/management-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
