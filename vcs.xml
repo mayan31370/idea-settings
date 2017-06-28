@@ -87,19 +87,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/defrayal-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@git.counect.wiki:9001/paas/management-system.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/merchant-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/preferential-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/associator-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@git.counect.wiki:9001/infrastructure-service/defrayal-service.git" />
+          <option name="url" value="ssh://git@git.counect.wiki:9001/tools/nginx-for-php.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
