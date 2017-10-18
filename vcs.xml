@@ -134,6 +134,10 @@
           <option name="url" value="http://gitlab.chenyuzhifu.com/java/channel-jinjian-syf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ca9e90cdc7e80492184ed081cb13c56fe.cn-zhangjiakou.alicontainer.com//java/channel-jinjian-syf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
