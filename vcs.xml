@@ -123,7 +123,19 @@
           <option name="userName" value="yan.ma" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@139.129.235.175:9001/tools/FMS.git" />
+          <option name="url" value="http://gitlab.ca9e90cdc7e80492184ed081cb13c56fe.cn-zhangjiakou.alicontainer.com/php/ymf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ca9e90cdc7e80492184ed081cb13c56fe.cn-zhangjiakou.alicontainer.com/java/router.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.chenyuzhifu.com/java/channel-jinjian-syf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ca9e90cdc7e80492184ed081cb13c56fe.cn-zhangjiakou.alicontainer.com//java/channel-jinjian-syf.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
@@ -132,6 +144,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="E:\git" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
