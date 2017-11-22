@@ -151,7 +151,11 @@
           <option name="userName" value="yan.ma" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.chenyuzhifu.com//java/gateway.git" />
+          <option name="url" value="https://github.com/mayan31370/spring-eureka.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/mayan31370/spring-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
