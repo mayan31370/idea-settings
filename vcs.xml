@@ -158,6 +158,10 @@
           <option name="url" value="https://github.com/mayan31370/spring-config.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://http://gitlab.chenyuzhifu.com//java/gateway.wiki.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git" />
