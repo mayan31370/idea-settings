@@ -159,11 +159,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.chenyuzhifu.com//java/users-service.git" />
+          <option name="url" value="http://http://gitlab.chenyuzhifu.com//java/gateway.wiki.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.chenyuzhifu.com//java/gateway.git" />
+          <option name="url" value="http://gitlab.chenyuzhifu.com//java/kjzf-router.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.chenyuzhifu.com//java/router.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
