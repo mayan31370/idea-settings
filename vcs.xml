@@ -167,6 +167,10 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
+          <option name="url" value="http://gitlab.chenyuzhifu.com//java/fastpay-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
           <option name="url" value="http://gitlab.chenyuzhifu.com//java/router.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
