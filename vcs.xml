@@ -184,6 +184,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/chenyu" />
   </component>
 </application>
