@@ -175,11 +175,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://gitlab.chenyuzhifu.com//Galaxy/api-service.git" />
+          <option name="url" value="http://gitlab.chenyuzhifu.com//Husky/exchange.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:mayan31370/java-stellar-sdk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.chenyuzhifu.com//Husky/bridge.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/git/galaxy/" />
+    <option name="cloneParentDir" value="$USER_HOME$/git/husky" />
   </component>
 </application>

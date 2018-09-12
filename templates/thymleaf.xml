@@ -1,0 +1,7 @@
+<templateSet group="thymleaf">
+  <template name="init" value="&lt;!DOCTYPE html&gt;&#10;&lt;html xmlns:th=&quot;http://www.thymeleaf.org&quot;&gt;&#10;&lt;head th:replace=&quot;baseLayouts::head(~{::title},~{::link})&quot;&gt;&#10;    &lt;title&gt;登录&lt;/title&gt;&#10;    &lt;link type=&quot;text/css&quot; rel=&quot;stylesheet&quot; th:href=&quot;add your css&quot;/&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&lt;nav th:replace=&quot;baseLayouts::header_notlogin&quot;&gt;&lt;/nav&gt;&#10;&lt;div th:replace=&quot;baseLayouts::nav_clear&quot;&gt;&lt;/div&gt;&#10;add your html code&#10;&lt;footer th:replace=&quot;baseLayouts::footer(~{::script})&quot;&gt;&#10;    &lt;script&gt;&#10;    add your js&#10;    &lt;/script&gt;&#10;&lt;/footer&gt;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="init-html" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
