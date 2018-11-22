@@ -1,0 +1,11 @@
+<application>
+  <component name="libraryTable">
+    <library name="gradle-wrapper">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/git/FTBLaunch/gradle/wrapper/gradle-wrapper.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
